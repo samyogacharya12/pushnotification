@@ -4,7 +4,7 @@ Objective
 To integrate Firebase Cloud Messaging (FCM) into a Java backend application to send push notifications to client
 devices (Android/iOS/Web).
 Tools and Technologies
-- Java 8+
+- Java 17+
 - Firebase Cloud Messaging (FCM)
 - Firebase Admin SDK
 - Maven (for dependency management)
@@ -16,7 +16,6 @@ Firebase Admin SDK added using Maven:
 <dependency>
 <groupId>com.google.firebase</groupId>
 <artifactId>firebase-admin</artifactId>
-<version>9.2.0</version>
 </dependency>
 
 
