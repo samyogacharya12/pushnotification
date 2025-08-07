@@ -1,5 +1,4 @@
 Java Firebase Push Notification Integration
-
 Objective
 To integrate Firebase Cloud Messaging (FCM) into a Java backend application to send push notifications to client
 devices (Android/iOS/Web).
